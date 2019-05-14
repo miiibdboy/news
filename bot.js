@@ -87,7 +87,7 @@ if (message.content.toLowerCase().startsWith(prefix + `close`)) {
 });
 
 const Discord = require("discord.js");
-const client = new Discord.Client();
+const client = new Discord.Client(571090162340331521);
 
 const newUsers = [];
 
